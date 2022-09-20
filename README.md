@@ -5,8 +5,9 @@
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp%201)
 ![image](https://user-images.githubusercontent.com/113341779/191203152-d01a0809-a18c-45ad-8373-452a120fa67e.png)
 ##experiment2
-[SQLqueries](
+[SQLqueries](https://github.com/vamsi050802/csa0519/blob/main/exp%202)
 ![image](https://user-images.githubusercontent.com/113341779/191312301-2faf6b0e-4cba-4c92-8cb4-c339a308b3aa.png)
+![image](https://user-images.githubusercontent.com/113341779/191312584-950e7a6b-77b3-4bda-bc2a-3825cb064f06.png)
 ##experiment 3
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp3)
 ![image](https://user-images.githubusercontent.com/113341779/191308557-8d3a82af-c69b-40ab-bc72-ec05def75a46.png)
