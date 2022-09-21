@@ -1,0 +1,72 @@
+Database changed
+mysql> create table data(name varchar(10),id int(10));
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> insert into data values('rajiv',5);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> commit;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> update data set name='hema' where id='5';
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> savepoint A;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> insert into data values('padma',10);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> savepoint B;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> insert into data values('vamsi',17);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> savepoint C;
+Query OK, 0 rows affected (0.00 sec)
+mysql> use db;
+Database changed
+mysql> select * from sys;
++-------+------+
+| name  | id   |
++-------+------+
+| hema  |    5 |
+| rajiv |   10 |
+| vamsi |   17 |
++-------+------+
+3 rows in set (0.00 sec)
+
+mysql> start transaction;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> savepoint A;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> update sys set name='sadvika' where id='5';
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from sys;
++---------+------+
+| name    | id   |
++---------+------+
+| sadvika |    5 |
+| rajiv   |   10 |
+| vamsi   |   17 |
++---------+------+
+3 rows in set (0.00 sec)
+
+mysql> rollback to savepoint A;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select * from sys;
++-------+------+
+| name  | id   |
++-------+------+
+| hema  |    5 |
+| rajiv |   10 |
+| vamsi |   17 |
++-------+------+
+3 rows in set (0.00 sec)
