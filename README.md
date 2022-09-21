@@ -44,4 +44,7 @@
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp12)
 ![image](https://user-images.githubusercontent.com/113341779/191542045-3151c185-c963-43de-903b-de5f8a1571e7.png)
 ![image](https://user-images.githubusercontent.com/113341779/191542100-1b79b879-877d-4b6f-ac58-76b04fecf08a.png)
+##experiment 13
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp13)
+![image](https://user-images.githubusercontent.com/113341779/191549481-13835ddc-6a1c-4323-afdf-d6eb9ae254f9.png)
 
