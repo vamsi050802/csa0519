@@ -26,4 +26,7 @@
 ##experiment 7
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp7)
 ![image](https://user-images.githubusercontent.com/113341779/191311734-d0d5e9b4-dc68-41a1-bde5-364e59a64189.png)
+## experiment 11
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp11)
+![image](https://user-images.githubusercontent.com/113341779/191539327-1e478076-117d-48c0-adf6-34bc962771fc.png)
 
