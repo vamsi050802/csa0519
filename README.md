@@ -30,6 +30,13 @@
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp8)
 ![image](https://user-images.githubusercontent.com/113341779/191540503-b335289d-773a-43ed-8b7e-78cb43130f5a.png)
 ## experiment 9
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp9)
+![image](https://user-images.githubusercontent.com/113341779/191541040-7244327f-d50f-4118-83c2-d14563c43788.png)
+![image](https://user-images.githubusercontent.com/113341779/191541076-dd69ba5a-f63a-46ac-b6f6-7841abda032c.png)
+![image](https://user-images.githubusercontent.com/113341779/191541114-5d93264d-47c6-44f1-a3d9-ad617414c912.png)
+##experiment 10
+[SQL queries](
+![image](https://user-images.githubusercontent.com/113341779/191541326-f1cf4551-dc54-4aec-99bf-06e00259f84a.png)
 
 
 ## experiment 11
