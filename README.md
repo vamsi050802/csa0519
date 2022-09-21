@@ -27,8 +27,10 @@
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp7)
 ![image](https://user-images.githubusercontent.com/113341779/191311734-d0d5e9b4-dc68-41a1-bde5-364e59a64189.png)
 ## expeiment 8
-
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp8)
 ![image](https://user-images.githubusercontent.com/113341779/191540503-b335289d-773a-43ed-8b7e-78cb43130f5a.png)
+## experiment 9
+
 
 ## experiment 11
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp11)
