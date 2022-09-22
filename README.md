@@ -50,5 +50,9 @@
 ## experiment 15
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp%2015)
 ![image](https://user-images.githubusercontent.com/113341779/191549813-683a8425-6190-44ae-839b-ed26d4ee43e2.png)
+##experiment 16
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp16)
+![image](https://user-images.githubusercontent.com/113341779/191698047-5b308934-1c01-43a7-b640-6a8d9a20c6ce.png)
+![image](https://user-images.githubusercontent.com/113341779/191698389-fbcbe55c-d6ca-4d33-ac26-a5e1efe574c9.png)
 
 
