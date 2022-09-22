@@ -58,6 +58,6 @@
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp17)
 ![image](https://user-images.githubusercontent.com/113341779/191700470-1890ddf8-dfcd-4f21-9581-6aeb72315291.png)
 ## experiment 18
-[SQL queries](
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp18)
 ![image](https://user-images.githubusercontent.com/113341779/191700752-fc76af0a-49c0-489e-89ff-37ec97685a88.png)
 
