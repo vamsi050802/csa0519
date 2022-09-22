@@ -19,6 +19,15 @@
 ![image](https://user-images.githubusercontent.com/113341779/191310590-cdbc9e23-95b6-4a83-a8e6-8b09fe87312b.png)
 ![image](https://user-images.githubusercontent.com/113341779/191310681-ffdf7735-995e-4514-a991-dc1062085428.png)
 ![image](https://user-images.githubusercontent.com/113341779/191310726-4361acad-af4d-4436-a931-23139a6e6a1c.png)
+##experiment 5
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp5)
+![image](https://user-images.githubusercontent.com/113341779/191709178-20e1fc5c-36be-40c8-9dee-0b0e30d718cb.png)
+![image](https://user-images.githubusercontent.com/113341779/191709218-f2f23dc3-7f5b-438d-a4c0-dad18a9251ec.png)
+![image](https://user-images.githubusercontent.com/113341779/191709276-6091c5c6-a852-444b-ad7a-b2080f45eefb.png)
+![image](https://user-images.githubusercontent.com/113341779/191709333-f2924dbf-c27b-4675-b8dc-eb323cbf3715.png)
+![image](https://user-images.githubusercontent.com/113341779/191709365-1342164d-86e7-4795-962b-9d27a79bb43e.png)
+![image](https://user-images.githubusercontent.com/113341779/191709403-9c620139-012e-45fe-a69e-315f7c115a88.png)
+
 ##experiment 6
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp6)
 ![image](https://user-images.githubusercontent.com/113341779/191310794-77434f47-ec15-4f4c-a7e5-f56cc9dbec98.png)
