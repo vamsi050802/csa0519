@@ -84,4 +84,8 @@
 ##experiment 23
 [SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp23)
 ![image](https://user-images.githubusercontent.com/113341779/192073969-77efb0db-2063-429c-90c9-640b6971e4c7.png)
+##experiment 24
+[SQL queries](https://github.com/vamsi050802/csa0519/blob/main/exp24)
+![image](https://user-images.githubusercontent.com/113341779/192074064-2cfd6bc3-1876-454d-b6e1-653f9ff52b6e.png)
+![image](https://user-images.githubusercontent.com/113341779/192074073-6583e110-87b5-4f74-8c60-c190a67aa70e.png)
 
